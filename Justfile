@@ -1,5 +1,3 @@
-.PHONY: run watch test
-
 run:
 	npm run start
 test:
@@ -7,3 +5,6 @@ test:
 
 watch:
 	npm run watch
+
+compile:
+	npm run compile
